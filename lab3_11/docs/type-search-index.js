@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ControlPanel"},{"p":"<Unnamed>","l":"Logger"},{"p":"<Unnamed>","l":"Monitor"},{"p":"<Unnamed>","l":"Screen"},{"p":"<Unnamed>","l":"Stand"},{"p":"<Unnamed>","l":"TouchInput"},{"p":"<Unnamed>","l":"TouchScreen"},{"p":"<Unnamed>","l":"TouchScreenDriver"}];updateSearchResults();
